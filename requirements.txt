@@ -1,0 +1,17 @@
+discord.py==0.16.12
+discord==0.0.2
+asyncio==3.4.3
+requests==2.18.4
+pip==10.0.1
+aiohttp==1.0.5
+async-timeout==2.0.1
+certifi==2018.4.16
+chardet==3.0.4
+docopt==0.6.2
+idna==2.1
+multidict==4.1.0
+setuptools==39.0.1
+urllib3==1.22
+websockets==3.4
+wheel==0.31.1
+yarg==0.1.9
