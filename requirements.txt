@@ -6,5 +6,4 @@ discord
 asyncio
 pymoe
 simplejson
-youtube_d1
 pip
