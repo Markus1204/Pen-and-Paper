@@ -1,1 +1,1 @@
-worker: python untitled.py
+worker: python3 untitled.py
