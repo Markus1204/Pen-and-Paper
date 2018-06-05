@@ -14,4 +14,4 @@ setuptools==39.0.1
 urllib3==1.22
 websockets==3.4
 wheel==0.31.1
-0.1.9
+yarg==0.1.9
